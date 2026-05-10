@@ -1,0 +1,8 @@
+node_modules/
+.rpow-cli-state*.json
+*.exe
+*.log
+.env
+rpow-native-miner
+rpow-gpu-miner
+.DS_Store
